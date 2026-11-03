@@ -16,6 +16,13 @@ body {
 
 }
 
+.nav-links {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+
 .grid-dashboard {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
